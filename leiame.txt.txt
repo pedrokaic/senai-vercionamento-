@@ -1,0 +1,7 @@
+"LEIA-ME"
+
+projeto desenvolvido para estudo de vercionamento em TI.
+
+por Pedro Kaic 
+
+05/05/22 - inicio da criação do projeto vercionamento, utilizaçao do GIT e GITHUB
